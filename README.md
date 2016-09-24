@@ -6,8 +6,10 @@ system expansion model [SWTICH](https://rael.berkeley.edu/project/switch/).
 
 The folders are structured as follows: 
 
-*Python code
-*Database queries 
-*Sandbox. 
+-Python code
+
+-Database queries 
+
+-Sandbox. 
 
 More updates as the work progresses.
